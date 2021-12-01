@@ -1,2 +1,2 @@
 # Python
-Basic games in python
+Python sandbox
