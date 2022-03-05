@@ -1,3 +1,7 @@
 # Python
-Python sandbox
-plus json's from DL course
+Python SandBox folder
+
+Contains:
+* Python games
+* Implemnetation of Deep Learning from Coursera specialization
+* Python SandBox programs
