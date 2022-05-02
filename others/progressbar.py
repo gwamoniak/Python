@@ -10,7 +10,7 @@ def progress_bar(progress, total, color=colorama.Fore.YELLOW):
         print(colorama.Fore.GREEN + f"\r|{bar}| {percent:.2f}%", end ="\r")
     
 
-ticker = ["APPL", "FB", "NVDA", "WFC"]
+tickers = ["APPL", "FB", "NVDA", "WFC"]
 clossing_prices = []
 
 progress_bar(0,len(tickers))
